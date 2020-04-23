@@ -89,6 +89,9 @@
 			isa = PBXGroup;
 			children = (
 				213C57EC24518C400064486F /* Home.storyboard */,
+				213C580924519B1B0064486F /* Model */,
+				213C580A24519B1B0064486F /* View */,
+				213C580B24519B1B0064486F /* Controller */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -128,8 +131,53 @@
 			isa = PBXGroup;
 			children = (
 				213C57B9245152240064486F /* Main.storyboard */,
+				213C580E24519B410064486F /* Model */,
+				213C580C24519B410064486F /* View */,
+				213C580D24519B410064486F /* Controller */,
 			);
 			path = Main;
+			sourceTree = "<group>";
+		};
+		213C580924519B1B0064486F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		213C580A24519B1B0064486F /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		213C580B24519B1B0064486F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		213C580C24519B410064486F /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		213C580D24519B410064486F /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		213C580E24519B410064486F /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
