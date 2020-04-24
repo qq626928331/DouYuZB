@@ -100,7 +100,7 @@ extension PageTitleView {
         // 2.添加scrollLine
         // 2.1获取第一个label
         guard let firstLabel = titleLabels.first else { return }
-        firstLabel.textColor = UIColor.orange
+        firstLabel.textColor = UIColor.orange 
         
         // 2.2设置scrollLine的属性
         scrollView.addSubview(scrollLine)
