@@ -22,6 +22,7 @@
 		213C58172451C77B0064486F /* Common.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213C58162451C77B0064486F /* Common.swift */; };
 		213C58192451DA010064486F /* PageContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213C58182451DA010064486F /* PageContentView.swift */; };
 		213C581B2451E16F0064486F /* UIColor-Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213C581A2451E16F0064486F /* UIColor-Extension.swift */; };
+		213C581D24532E480064486F /* RecommendViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 213C581C24532E480064486F /* RecommendViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,7 @@
 		213C58162451C77B0064486F /* Common.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common.swift; sourceTree = "<group>"; };
 		213C58182451DA010064486F /* PageContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageContentView.swift; sourceTree = "<group>"; };
 		213C581A2451E16F0064486F /* UIColor-Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor-Extension.swift"; sourceTree = "<group>"; };
+		213C581C24532E480064486F /* RecommendViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecommendViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +171,7 @@
 			children = (
 				213C57EC24518C400064486F /* Home.storyboard */,
 				213C580F2451AC9A0064486F /* HomeViewController.swift */,
+				213C581C24532E480064486F /* RecommendViewController.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -283,6 +286,7 @@
 			files = (
 				213C57B4245152240064486F /* AppDelegate.swift in Sources */,
 				213C581B2451E16F0064486F /* UIColor-Extension.swift in Sources */,
+				213C581D24532E480064486F /* RecommendViewController.swift in Sources */,
 				213C57B6245152240064486F /* SceneDelegate.swift in Sources */,
 				213C58152451C4240064486F /* PageTitleView.swift in Sources */,
 				213C58192451DA010064486F /* PageContentView.swift in Sources */,
